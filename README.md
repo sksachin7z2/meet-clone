@@ -1,11 +1,6 @@
 # GMeet : A Google Meet Clone
 
-GMeet is a video calling platform similar to Google Meet made using NodeJS. 
-
-
-## Visit the official website!
-
-Visit the website from this link : https://google-meeting.herokuapp.com/
+GMeet is a video calling platform similar to Google Meet made using nodes js
 
 
 ## Features
@@ -27,13 +22,13 @@ Visit the website from this link : https://google-meeting.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/rajarshisg/Google-Meet-Clone.git
+  git clone https://github.com/sksachin7z2/meet-clone.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Google-Meet-Clone
+  cd meet-Clone
 ```
 
 Install dependencies
@@ -47,11 +42,6 @@ Start the server
 ```bash
   npm start
 ```
-
-
-## Authors
-
-- [@rajarshisg](https://github.com/rajarshisg)
 
   
 
